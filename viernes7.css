@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color:gray;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    transform: translate(-2%, -48%);
+    text-align: center;
+    color: blue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body2{
+    background-color:gray;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    transform: translate(-2%, -48%);
+    text-align: center;
+    color: blue;
+}
